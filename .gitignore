@@ -1,0 +1,11 @@
+# Simulink build files
+slprj/*
+
+# Output files
+out/*
+*.fig
+*.mat
+
+# Autosave files
+*.autosave
+*.asv
